@@ -1,63 +1,37 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/7lovescode/7lovescode/main/assets/developer.gif" align="right" width="350"/>
-  
-  <h1 align="left">Hello! I am Teja Dora 👋</h1>
-  <p align="left">
-    <a href="https://readme-typing-svg.demolab.com">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&vCenter=true&width=535&lines=Software+Developer;Full+Stack+Engineer;System+Architect;Problem+Solver" alt="Typing SVG" />
-    </a>
-  </p>
-  
-  <p align="left">
-    <i>"Transforming complex problems into elegant, highly scalable software solutions."</i>
-  </p>
-  
-  <p align="left">
-    I am an ambitious and detail-oriented <b>Software Developer</b> studying at <b>Parul University (2023–2027)</b>. My expertise lies in architecting resilient full-stack ecosystems, building heavy-duty backend microservices, and integrating highly efficient algorithms into production environments. I thrive in challenging situations—whether that means debugging deeply distributed systems or optimizing data architectures for peak performance.
-  </p>
-  
-  <p align="left">
-    <a href="https://www.linkedin.com/in/teja-dora" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:dorateja293@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/dorateja293" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://leetcode.com/u/teja_dora/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode" />
-    </a>
-  </p>
-</div>
+<h1 align="center">Hi 👋, I'm Teja Dora</h1>
+<h3 align="center">Software Developer & Open Source Contributor</h3>
 
-<br clear="both"/>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Engineer" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/teja-dora" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dorateja293@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/dorateja293" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/teja_dora/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode" />
+  </a>
+</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>✨ Engineering Highlights</h3>
-      <ul>
-        <li>🔭 <b>Current Focus:</b> High-concurrency backend microservices & secure APIs.</li>
-        <li>🌱 <b>Deepening Expertise:</b> Cloud scaling & full-stack modern frameworks.</li>
-        <li>⚡ <b>Algorithmic Mastery:</b> Successfully conquered <b>500+ complex problems</b>.</li>
-        <li>🎯 <b>Driving Force:</b> Writing clean, modular, and maintainable software.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏆 Hackathons & Engagement</h3>
-      <ul>
-        <li>🥇 Active competitor and engineer in high-stakes <b>tech hackathons</b>.</li>
-        <li>💻 Strong advocate for robust <b>backend system design</b>.</li>
-        <li>🧩 Constant solver on competitive platforms like <b>LeetCode</b>.</li>
-        <li>🚀 Focused on shipping software with real-world, lasting impact.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## 👨‍💻 About Me
+
+I am a passionate **Software Developer** currently pursuing my degree in Computer Science and Engineering at *Parul University (2023–2027)*. I specialize in building robust backend architectures, scalable APIs, and seamless full-stack web applications. I am deeply interested in solving complex programming challenges through clean, highly-maintainable code.
+
+* 🚀 **Building:** Fast, scalable backend microservices and efficient data-driven platforms.
+* 🧠 **Exploring:** Advanced architectural patterns, distributed system design, and cloud deployments.
+* 🏆 **Achievements:** Conquered **500+ data structures and algorithms** problems across major coding platforms and actively build innovative software solutions at competitive hackathons.
+* ⚡ **Fun Fact:** I love turning coffee into highly optimized application logic!
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -72,7 +46,6 @@
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
 ### 🌐 Backend Ecosystems & Architecture
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -94,6 +67,7 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
@@ -104,21 +78,21 @@
 <table align="center" width="100%">
   <tr>
     <td colspan="2" valign="top">
-      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" width="30"/> Intelli-CICD Platform</h2>
-      <p>A flagship AI-powered CI/CD optimization suite that calculates predictive build failure probabilities and dynamically optimizes test execution across deployment pipelines. Engineered predictive statistical models yielding an estimated massive <strong>20-40% reduction in execution time</strong> by successfully anticipating pipeline failures before they happen.</p>
+      <h2>🧠 Intelli-CICD Platform</h2>
+      <p>A flagship CI/CD optimization suite that calculates predictive build failure probabilities and dynamically optimizes test execution across deployment pipelines. Engineered statistical models yielding an estimated <strong>20-40% reduction in execution time</strong> by successfully anticipating pipeline failures before they happen.</p>
       <p><strong><a href="https://github.com/dorateja293/Intelli-CICD" target="_blank">🔗 View Repository</a></strong></p>
       <p><code>Python</code> <code>Machine Learning</code> <code>GitHub Actions</code> <code>FastAPI</code> <code>PostgreSQL</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Automobile.png" width="25"/> Gig Worker Insurance</h3>
+      <h3>🚗 Gig Worker Insurance Dashboard</h3>
       <p>An advanced architecture specifically predicting risk modules and processing dynamic insurance allocations tailored for the fast-paced gig economy. Completely automated API gateways.</p>
       <p><strong><a href="https://github.com/dorateja293/AI-driven-gig-worker-insurance-system" target="_blank">🔗 View Repository</a></strong></p>
       <p><code>Python</code> <code>Flask</code> <code>REST APIs</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20and%20drink/Hamburger.png" width="25"/> Smart Food Ecosystem</h3>
+      <h3>🍔 Smart Food Ecosystem</h3>
       <p>A resilient full-stack ecosystem synchronizing bulk surplus food donations directly with verified NGOs, leveraging highly secure role-based user routing and live-tracking.</p>
       <p><strong><a href="https://github.com/dorateja293/smart-food-redistribution-platform" target="_blank">🔗 View Repository</a></strong></p>
       <p><code>JavaScript</code> <code>React</code> <code>Node.js</code> <code>MongoDB</code></p>

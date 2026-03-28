@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Teja%20Dora&fontSize=80&fontAlignY=35&desc=AI%20&%20Machine%20Learning%20Engineer&descAlignY=55&descAlign=50" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20!%20i%20am%20Teja&fontSize=70&fontAlignY=40" alt="header">
 </div>
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F711C9&center=true&vCenter=true&width=535&lines=Machine+Learning+Engineer;Full+Stack+Developer;Software+Architect;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F711C9&center=true&vCenter=true&width=535&lines=Software+Developer;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
   </a>
 </div>
 
@@ -28,11 +28,11 @@
 <br/>
 
 ## 👨‍💻 About Me
-A passionate **Software Engineering** student at *Parul University (2023–2027)*, deeply focused on architecting scalable full-stack platforms and integrating robust **Machine Learning** & **Artificial Intelligence** models to solve complex, real-world problems.
+A passionate **Software Developer** studying at *Parul University (2023–2027)*, deeply focused on architecting scalable full-stack platforms and integrating robust analytical models to solve complex, real-world problems.
 
-- 🔭 **Current Focus**: Designing cutting-edge AI pipelines, NLP models, and scalable backend microservices.
-- 🌱 **Learning**: Advanced Deep Learning (Transformers/LLMs), Neural Networks, and highly distributed systems.
-- ⚡ **Milestones**: Conquered **500+ algorithmic problems** and actively engineered AI-driven solutions in competitive tech hackathons.
+- 🔭 **Current Focus**: Designing scalable backend microservices, robust APIs, and efficient data pipelines.
+- 🌱 **Learning**: Advanced architectural patterns, full-stack frameworks, and highly distributed systems.
+- ⚡ **Milestones**: Conquered **500+ algorithmic problems** and actively engineered powerful solutions in competitive tech hackathons.
 
 ---
 
@@ -40,7 +40,7 @@ A passionate **Software Engineering** student at *Parul University (2023–2027)
 
 <div align="center">
 
-### 🤖 AI, Machine Learning & Data Science
+### 🤖 AI, Machine Learning 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -80,25 +80,19 @@ A passionate **Software Engineering** student at *Parul University (2023–2027)
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🚗 AI-Driven Gig Worker Insurance</h3>
-      <p>AI-powered architecture predicting risk modules and processing dynamic insurance allocations tailored for gig economy workers.</p>
-      <p><strong><a href="https://github.com/dorateja293/AI-driven-gig-worker-insurance-system" target="_blank">🔗 View Repository</a></strong></p>
-      <p><code>Python</code> <code>AI / ML</code> <code>FastAPI</code></p>
-    </td>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3>🧠 Intelli-CICD Platform</h3>
-      <p>AI-powered CI/CD optimization platform that predicts build failure probability and dynamically optimizes test execution across pipelines.</p>
+      <p>AI-powered CI/CD optimization platform that predicts build failure probability and dynamically optimizes test execution across pipelines. Engineered predictive models yielding an estimated 20-40% reduction in execution time by anticipating pipeline failures.</p>
       <p><strong><a href="https://github.com/dorateja293/Intelli-CICD" target="_blank">🔗 View Repository</a></strong></p>
-      <p><code>Python</code> <code>Scikit-Learn</code> <code>GitHub Actions</code></p>
+      <p><code>Python</code> <code>Machine Learning</code> <code>GitHub Actions</code> <code>FastAPI</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 GrowthWave</h3>
-      <p>A sophisticated data tracking & business intelligence platform architected using modern modern TypeScript frameworks.</p>
-      <p><strong><a href="https://github.com/dorateja293/GrowthWave" target="_blank">🔗 View Repository</a></strong></p>
-      <p><code>TypeScript</code> <code>React</code> <code>Node.js</code></p>
+      <h3>🚗 Gig Worker Insurance </h3>
+      <p>Architecture predicting risk modules and processing dynamic insurance allocations tailored for gig economy workers dynamically.</p>
+      <p><strong><a href="https://github.com/dorateja293/AI-driven-gig-worker-insurance-system" target="_blank">🔗 View Repository</a></strong></p>
+      <p><code>Python</code> <code>Flask</code> <code>APIs</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>🍔 Smart Food Redistribution</h3>

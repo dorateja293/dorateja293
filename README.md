@@ -1,20 +1,20 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <h1 align="center">Hi 👋, I'm Teja</h1>
-<h3 align="center">Computer Science Student | Aspiring Software Developer</h3>
+<h3 align="center">Software Developer | AI & ML Specialization</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/teja-dora" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:dorateja293@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/dorateja293" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://leetcode.com/u/teja_dora/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="Leetcode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode" />
   </a>
 </p>
 
@@ -22,31 +22,56 @@
 
 ## 👨‍💻 About Me
 
-Hello! I am a passionate **Software Developer** currently pursuing my degree in Computer Science and Engineering at *Parul University (2023–2027)*. I specialize in building robust backend architectures, scalable APIs, and seamless full-stack web applications. I am deeply interested in solving complex programming challenges through clean, highly maintainable code.
+Hello! I am a passionate **Software Developer** currently pursuing my degree in Computer Science and Engineering (AI & ML Specialization) at *Parul University (2023–2027)*. I specialize in building robust backend architectures, scalable APIs, and seamless full-stack web applications. I am deeply interested in solving complex programming challenges through clean, highly maintainable code.
 
 * 🚀 **Building:** Fast, scalable backend microservices and efficient data-driven platforms.
 * 🧠 **Exploring:** Advanced architectural patterns, distributed system design, and cloud deployments.
 * 🏆 **Achievements:** Conquered **500+ data structures and algorithms** problems across major coding platforms and actively build innovative software solutions at competitive hackathons.
 * ⚡ **Fun Fact:** I love turning coffee into highly optimized application logic!
 
-<br />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🛠️ Technical Arsenal
 
-| 🤖 **Core Logic & AI** | 🌐 **Backend Ecosystems** | 💻 **Frontend & UI** | 🗄️ **Databases & Cloud** |
-| :--- | :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> | <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /> | <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" /> | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> | <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> | <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> | | <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> | <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /> | | <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" /> |
+<div align="center">
 
-<br />
+### 🤖 Core Intelligence & Logic
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+### 🌐 Backend Ecosystems & Architecture
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+
+### 💻 Frontend & Interfaces
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+### 🗄️ Databases, Cloud & Tooling
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🚀 Featured High-Impact Systems
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td colspan="2" valign="top">
       <h2>🧠 Intelli-CICD Platform</h2>
@@ -57,7 +82,7 @@ Hello! I am a passionate **Software Developer** currently pursuing my degree in 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚗 Gig Worker Insurance </h3>
+      <h3>🚗 Gig Worker Insurance Dashboard</h3>
       <p>An advanced architecture specifically predicting risk modules and processing dynamic insurance allocations tailored for the fast-paced gig economy. Completely automated API gateways.</p>
       <p><strong><a href="https://github.com/dorateja293/AI-driven-gig-worker-insurance-system" target="_blank">🔗 View Repository</a></strong></p>
       <p><code>Python</code> <code>Flask</code> <code>REST APIs</code></p>
@@ -71,23 +96,19 @@ Hello! I am a passionate **Software Developer** currently pursuing my degree in 
   </tr>
 </table>
 
-<br />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 📈 GitHub Metrics & Activity
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dorateja293&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dorateja293&theme=tokyonight" alt="Summary Card" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dorateja293&theme=merko&hide_border=true&border_radius=10" alt="Streak" height="195" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dorateja293&theme=tokyonight" alt="Summary Card" height="195" />
+</div>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dorateja293&theme=tokyo-night&hide_border=true&area=true&color=339933" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dorateja293&theme=tokyo-night&hide_border=true&area=true&color=F711C9" alt="Activity Graph" width="90%" />
 </div>
 
 <br/>

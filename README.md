@@ -1,94 +1,52 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-  <!-- Animated Star-Struck Emoji -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="60" />
-  
-  <h1>Hi 👋, I'm Teja</h1>
-  <h3>Computer Science Student | Aspiring Software Developer</h3>
+<h1 align="center">Hi 👋, I'm Teja</h1>
+<h3 align="center">Computer Science Student | Aspiring Software Developer</h3>
 
-  <!-- Advanced Console-style Typing Animation -->
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=💻+Architecting+Scalable+Backend+Systems;⚡+Optimizing+Complex+Algorithms;🚀+Passionate+about+System+Design;🤖+Exploring+Data+%26+Machine+Learning" alt="Typing SVG" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/teja-dora" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <br/><br/>
-  
-  <p>
-    <a href="https://www.linkedin.com/in/teja-dora" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:dorateja293@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/dorateja293" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://leetcode.com/u/teja_dora/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode" />
-    </a>
-  </p>
-
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="35" />
-  <br />
-  <h2>👨‍💻 About My Journey</h2>
-  <p><i>"Transforming complex logic into elegant, high-impact software."</i></p>
-  <p>I am a highly motivated <b>Software Developer</b> studying at <b>Parul University (2023–2027)</b>. I specialize in building heavy-duty backend architectures, integrating secure APIs, and engineering blazing-fast database queries. With a strong track record of conquering <b>500+ data structures & algorithms problems</b> and actively building products at tech hackathons, I thrive exactly where performance and clean code intersect.</p>
-</div>
+  <a href="mailto:dorateja293@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/dorateja293" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/teja_dora/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="Leetcode" />
+  </a>
+</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<div align="center">
-  <h2>🛠️ Technical Arsenal</h2>
-  <br/>
+## 👨‍💻 About Me
 
-  <p><b>🧠 Core Logic & AI</b></p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  
-  <br/><br/>
+Hello! I am a passionate **Software Developer** currently pursuing my degree in Computer Science and Engineering at *Parul University (2023–2027)*. I specialize in building robust backend architectures, scalable APIs, and seamless full-stack web applications. I am deeply interested in solving complex programming challenges through clean, highly maintainable code.
 
-  <p><b>🌐 Backend Ecosystems</b></p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+* 🚀 **Building:** Fast, scalable backend microservices and efficient data-driven platforms.
+* 🧠 **Exploring:** Advanced architectural patterns, distributed system design, and cloud deployments.
+* 🏆 **Achievements:** Conquered **500+ data structures and algorithms** problems across major coding platforms and actively build innovative software solutions at competitive hackathons.
+* ⚡ **Fun Fact:** I love turning coffee into highly optimized application logic!
 
-  <br/><br/>
+<br />
 
-  <p><b>💻 Frontend & Interfaces</b></p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+## 🛠️ Technical Arsenal
 
-  <br/><br/>
+| 🤖 **Core Logic & AI** | 🌐 **Backend Ecosystems** | 💻 **Frontend & UI** | 🗄️ **Databases & Cloud** |
+| :--- | :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> | <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /> | <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" /> | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> | <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> | <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> | | <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> | <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /> | | <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" /> |
 
-  <p><b>🗄️ Databases & Tooling</b></p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+<br />
 
-</div>
+## 🚀 Featured High-Impact Systems
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<div align="center">
-  <h2>🚀 Featured High-Impact Systems</h2>
-</div>
-
-<table align="center" width="100%">
+<table width="100%">
   <tr>
     <td colspan="2" valign="top">
       <h2>🧠 Intelli-CICD Platform</h2>
@@ -99,7 +57,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚗 Gig Worker Insurance Dashboard</h3>
+      <h3>🚗 Gig Worker Insurance </h3>
       <p>An advanced architecture specifically predicting risk modules and processing dynamic insurance allocations tailored for the fast-paced gig economy. Completely automated API gateways.</p>
       <p><strong><a href="https://github.com/dorateja293/AI-driven-gig-worker-insurance-system" target="_blank">🔗 View Repository</a></strong></p>
       <p><code>Python</code> <code>Flask</code> <code>REST APIs</code></p>
@@ -113,20 +71,27 @@
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<br />
+
+## 📈 GitHub Metrics & Activity
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dorateja293&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dorateja293&theme=tokyonight" alt="Summary Card" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <h2>📈 GitHub Metrics & Activity</h2>
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dorateja293&theme=merko&hide_border=true&border_radius=10" alt="Streak" height="195" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dorateja293&theme=tokyonight" alt="Summary Card" height="195" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dorateja293&theme=tokyo-night&hide_border=true&area=true&color=F711C9" alt="Activity Graph" width="90%" />
-
-  <br/><br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&section=footer&text=Let's%20build%20something%20amazing!&fontSize=16" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dorateja293&theme=tokyo-night&hide_border=true&area=true&color=339933" alt="Activity Graph" width="100%" />
 </div>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&section=footer&text=Let's%20build%20something%20amazing!&fontSize=16" />
+</p>

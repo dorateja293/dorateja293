@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F711C9&center=true&vCenter=true&width=535&lines=Software+Developer;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F711C9&center=true&vCenter=true&width=535&lines=Software+Developer;Full+Stack+Engineer;System+Architect;Problem+Solver" alt="Typing SVG" />
   </a>
 </div>
 
@@ -27,31 +27,35 @@
 
 <br/>
 
-## 👨‍💻 About Me
-A passionate **Software Developer** studying at *Parul University (2023–2027)*, deeply focused on architecting scalable full-stack platforms and integrating robust analytical models to solve complex, real-world problems.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-- 🔭 **Current Focus**: Designing scalable backend microservices, robust APIs, and efficient data pipelines.
-- 🌱 **Learning**: Advanced architectural patterns, full-stack frameworks, and highly distributed systems.
-- ⚡ **Milestones**: Conquered **500+ algorithmic problems** and actively engineered powerful solutions in competitive tech hackathons.
+### 🌟 About Me & My Vision
+*"Transforming complex problems into elegant, highly scalable software solutions."*
 
----
+Hello! I'm an ambitious and detail-oriented **Software Developer** currently pursuing my degree in Computer Science Engineering at *Parul University (2023–2027)*. I specialize in architecting resilient full-stack ecosystems, building heavy-duty backend microservices, and integrating highly efficient algorithms into production environments. I thrive in challenging situations—whether that means debugging deeply distributed systems or optimizing data pipelines for peak performance.
+
+**✨ Key Highlights:**
+- 🔭 **Current Focus**: Architecting high-concurrency backend microservices, designing secure RESTful APIs, and optimizing database pipelines.
+- 🌱 **Deepening Expertise**: Cloud scaling strategies, modern full-stack frameworks (React/Node.js), and advanced software design patterns.
+- ⚡ **Competitive Edge**: I have successfully hacked my way through **500+ advanced algorithmic problems** across coding platforms and continuously build winning, innovative products at competitive tech hackathons.
+- 🎯 **Driving Force**: Writing exceptionally clean, modular code and pushing software boundaries to create a lasting real-world impact.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🛠️ Technical Arsenal
 
 <div align="center">
 
-### 🤖 AI, Machine Learning 
+### 🤖 Core Intelligence & Logic
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
-### 🌐 Backend & Core Ecosystems
+### 🌐 Backend Ecosystems & Architecture
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -59,13 +63,13 @@ A passionate **Software Developer** studying at *Parul University (2023–2027)*
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 
-### 💻 Frontend Platforms
+### 💻 Frontend & Interfaces
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-### 🗄️ Databases & Tooling
+### 🗄️ Databases, Cloud & Tooling
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -74,36 +78,36 @@ A passionate **Software Developer** studying at *Parul University (2023–2027)*
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🚀 High-Impact Projects
+## 🚀 Featured High-Impact Systems
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td colspan="2" valign="top">
-      <h3>🧠 Intelli-CICD Platform</h3>
-      <p>AI-powered CI/CD optimization platform that predicts build failure probability and dynamically optimizes test execution across pipelines. Engineered predictive models yielding an estimated 20-40% reduction in execution time by anticipating pipeline failures.</p>
+      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" width="30"/> Intelli-CICD Platform</h2>
+      <p>A flagship AI-powered CI/CD optimization suite that calculates predictive build failure probabilities and dynamically optimizes test execution across deployment pipelines. Engineered predictive statistical models yielding an estimated massive <strong>20-40% reduction in execution time</strong> by successfully anticipating pipeline failures before they happen.</p>
       <p><strong><a href="https://github.com/dorateja293/Intelli-CICD" target="_blank">🔗 View Repository</a></strong></p>
-      <p><code>Python</code> <code>Machine Learning</code> <code>GitHub Actions</code> <code>FastAPI</code></p>
+      <p><code>Python</code> <code>Machine Learning</code> <code>GitHub Actions</code> <code>FastAPI</code> <code>PostgreSQL</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚗 Gig Worker Insurance </h3>
-      <p>Architecture predicting risk modules and processing dynamic insurance allocations tailored for gig economy workers dynamically.</p>
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Automobile.png" width="25"/> Gig Worker Insurance</h3>
+      <p>An advanced architecture specifically predicting risk modules and processing dynamic insurance allocations tailored for the fast-paced gig economy. Completely automated API gateways.</p>
       <p><strong><a href="https://github.com/dorateja293/AI-driven-gig-worker-insurance-system" target="_blank">🔗 View Repository</a></strong></p>
-      <p><code>Python</code> <code>Flask</code> <code>APIs</code></p>
+      <p><code>Python</code> <code>Flask</code> <code>REST APIs</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🍔 Smart Food Redistribution</h3>
-      <p>A full-stack ecosystem synchronizing surplus food donations with verified NGOs leveraging secure user routing.</p>
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20and%20drink/Hamburger.png" width="25"/> Smart Food Ecosystem</h3>
+      <p>A resilient full-stack ecosystem synchronizing bulk surplus food donations directly with verified NGOs, leveraging highly secure role-based user routing and live-tracking.</p>
       <p><strong><a href="https://github.com/dorateja293/smart-food-redistribution-platform" target="_blank">🔗 View Repository</a></strong></p>
-      <p><code>JavaScript</code> <code>React</code> <code>MongoDB</code></p>
+      <p><code>JavaScript</code> <code>React</code> <code>Node.js</code> <code>MongoDB</code></p>
     </td>
   </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 📈 GitHub Metrics & Activity
 
@@ -115,7 +119,7 @@ A passionate **Software Developer** studying at *Parul University (2023–2027)*
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dorateja293&theme=tokyo-night&hide_border=true&area=true&color=F711C9" alt="Activity Graph" width="80%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dorateja293&theme=tokyo-night&hide_border=true&area=true&color=F711C9" alt="Activity Graph" width="90%" />
 </div>
 
 <br/>

@@ -1,78 +1,61 @@
 <h1 align="center">Hi 👋, I'm Teja Dora</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | AI/ML Enthusiast | MERN Developer</h3>
+<h3 align="center">🚀 Software Developer | AI/ML Enthusiast | MERN Stack Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dorateja293&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Engineer+in+Progress...;AI%2FML+Explorer;MERN+Stack+Developer;DSA+Learner+%F0%9F%94%A5" />
-</p>
-
 ---
 
 ## 🧠 About Me
 
-- 🎓 B.Tech CSE (AIML) Student  
-- 💡 Passionate about **AI/ML + Full Stack Development**  
-- 🚀 Building real-world scalable applications  
-- 📈 Practicing **DSA daily for product-based companies**  
-- 🎯 Goal: Crack **Top Tech Companies (SDE Role)**  
+- 🎓 B.Tech CSE (AIML) @ Parul University (2023–2027)  
+- 💻 Full Stack Developer with strong backend & API design skills  
+- 🤖 Experienced in building **AI/ML-based real-world solutions**  
+- 📊 Solved **500+ DSA problems** across platforms  
+- 🚀 Passionate about **system design, scalable apps & clean code**  
 
 ---
 
 ## 🚀 Tech Stack
 
-### 💻 Programming
+### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,js" />
 </p>
 
-### 🌐 Web Development
+### 🌐 Full Stack Development
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
 </p>
 
 ### 🧠 AI / ML
+- 🤖 Machine Learning (Supervised Learning)
+- 📊 Data Preprocessing (NumPy, Pandas)
+- 📈 Model Training & Evaluation
+- 🧠 Scikit-learn
+
+### 🛢️ Databases & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-- 🤖 Machine Learning  
-- 📊 Data Analysis (Pandas, NumPy)  
-- 📈 Model Building & Evaluation  
-- 🧠 Deep Learning (Basics)  
-- 🔍 Scikit-learn  
-
----
-
-### 🛢️ Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,docker,git,github" />
 </p>
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🟢 AI-Driven Gig Worker Insurance System
-- 🤖 AI-based risk prediction model  
-- 📊 Financial modeling  
-- ⚡ Real-world insurance use case  
+### 🟢 Intelli-CI: AI-Powered CI/CD Optimization Platform
+- 🚀 Built full-stack system with **React + FastAPI + PostgreSQL + Redis**
+- 🤖 Integrated ML models to predict build failures & flaky tests
+- 📊 Visual dashboards for pipeline analytics & debugging
+- ⚡ Improved CI/CD efficiency by **20–40%**
 
 ---
 
-### 🟢 Intelli-CICD
-- 🚀 AI-powered CI/CD optimization  
-- 📈 Predicts build failures  
-- ⚡ Improves pipeline efficiency  
-
----
-
-### 🟢 Research Publishing Platform
-- 🔐 OTP + Google Authentication  
-- 📄 Upload research papers  
-- 🧠 Category filtering system  
+### 🟢 Smart Food Redistribution Platform
+- 🌍 Solves real-world problem of food wastage
+- 🔄 Real-time coordination between donors, NGOs & volunteers
+- 💳 Secure donation & payment integration
+- 📊 Admin dashboard with analytics
 
 ---
 
@@ -94,26 +77,26 @@
 
 ## 🏆 Achievements
 
-- 🧠 Built multiple AI/ML + Full Stack Projects  
-- 🚀 Strong focus on real-world problem solving  
-- 📈 Consistent GitHub contributions  
-- 💻 Hands-on with scalable systems  
+- 🧠 Solved **500+ DSA problems** (LeetCode, GFG, Codeforces, HackerRank, CodeChef)
+- 🚀 Built AI + Full Stack production-level projects  
+- 🏁 Participated in **3+ hackathons**  
+- 📜 Certified in DSA & MERN Stack  
 
 ---
 
 ## 📅 Current Focus
 
-- 🔥 DSA (Daily Practice)  
+- 🔥 Daily DSA Practice  
 - 🧠 Advanced Machine Learning  
-- 🌐 MERN Stack Projects  
-- 🚀 Building Production-Level Apps  
+- 🌐 Scalable Full Stack Applications  
+- 🚀 System Design  
 
 ---
 
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/teja-dora">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:dorateja293@gmail.com">
@@ -125,4 +108,4 @@
 
 ## ⚡ Developer Mindset
 
-> "I don't just write code — I build systems that solve real-world problems."
+> "I build intelligent systems that solve real-world problems — not just applications."

@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <h1 align="center">Hi 👋, I'm Teja</h1>
-<h3 align="center">Software Developer | AI & ML Specialization</h3>
+<h3 align="center">Aspiring Software Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/teja-dora" target="_blank">

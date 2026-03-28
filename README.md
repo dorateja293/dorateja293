@@ -1,44 +1,63 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20!%20i%20am%20Teja&fontSize=70&fontAlignY=40" alt="header">
+  <img src="https://raw.githubusercontent.com/7lovescode/7lovescode/main/assets/developer.gif" align="right" width="350"/>
+  
+  <h1 align="left">Hello! I am Teja Dora 👋</h1>
+  <p align="left">
+    <a href="https://readme-typing-svg.demolab.com">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&vCenter=true&width=535&lines=Software+Developer;Full+Stack+Engineer;System+Architect;Problem+Solver" alt="Typing SVG" />
+    </a>
+  </p>
+  
+  <p align="left">
+    <i>"Transforming complex problems into elegant, highly scalable software solutions."</i>
+  </p>
+  
+  <p align="left">
+    I am an ambitious and detail-oriented <b>Software Developer</b> studying at <b>Parul University (2023–2027)</b>. My expertise lies in architecting resilient full-stack ecosystems, building heavy-duty backend microservices, and integrating highly efficient algorithms into production environments. I thrive in challenging situations—whether that means debugging deeply distributed systems or optimizing data architectures for peak performance.
+  </p>
+  
+  <p align="left">
+    <a href="https://www.linkedin.com/in/teja-dora" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:dorateja293@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/dorateja293" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://leetcode.com/u/teja_dora/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode" />
+    </a>
+  </p>
 </div>
 
-<div align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F711C9&center=true&vCenter=true&width=535&lines=Software+Developer;Full+Stack+Engineer;System+Architect;Problem+Solver" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/teja-dora" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:dorateja293@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/dorateja293" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://leetcode.com/u/teja_dora/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode" />
-  </a>
-</div>
-
-<br/>
+<br clear="both"/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-### 🌟 About Me & My Vision
-*"Transforming complex problems into elegant, highly scalable software solutions."*
-
-Hello! I'm an ambitious and detail-oriented **Software Developer** currently pursuing my degree in Computer Science Engineering at *Parul University (2023–2027)*. I specialize in architecting resilient full-stack ecosystems, building heavy-duty backend microservices, and integrating highly efficient algorithms into production environments. I thrive in challenging situations—whether that means debugging deeply distributed systems or optimizing data pipelines for peak performance.
-
-**✨ Key Highlights:**
-- 🔭 **Current Focus**: Architecting high-concurrency backend microservices, designing secure RESTful APIs, and optimizing database pipelines.
-- 🌱 **Deepening Expertise**: Cloud scaling strategies, modern full-stack frameworks (React/Node.js), and advanced software design patterns.
-- ⚡ **Competitive Edge**: I have successfully hacked my way through **500+ advanced algorithmic problems** across coding platforms and continuously build winning, innovative products at competitive tech hackathons.
-- 🎯 **Driving Force**: Writing exceptionally clean, modular code and pushing software boundaries to create a lasting real-world impact.
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✨ Engineering Highlights</h3>
+      <ul>
+        <li>🔭 <b>Current Focus:</b> High-concurrency backend microservices & secure APIs.</li>
+        <li>🌱 <b>Deepening Expertise:</b> Cloud scaling & full-stack modern frameworks.</li>
+        <li>⚡ <b>Algorithmic Mastery:</b> Successfully conquered <b>500+ complex problems</b>.</li>
+        <li>🎯 <b>Driving Force:</b> Writing clean, modular, and maintainable software.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏆 Hackathons & Engagement</h3>
+      <ul>
+        <li>🥇 Active competitor and engineer in high-stakes <b>tech hackathons</b>.</li>
+        <li>💻 Strong advocate for robust <b>backend system design</b>.</li>
+        <li>🧩 Constant solver on competitive platforms like <b>LeetCode</b>.</li>
+        <li>🚀 Focused on shipping software with real-world, lasting impact.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 

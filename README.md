@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Teja%20Dora&fontSize=80&fontAlignY=35&desc=Visionary%20Software%20Engineer&descAlignY=55&descAlign=50" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Teja%20Dora&fontSize=80&fontAlignY=35&desc=AI%20&%20Machine%20Learning%20Engineer&descAlignY=55&descAlign=50" alt="header">
 </div>
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F711C9&center=true&vCenter=true&width=535&lines=Machine+Learning+Engineer;Full+Stack+Developer;Software+Architect;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F711C9&center=true&vCenter=true&width=535&lines=Machine+Learning+Engineer;Full+Stack+Developer;Software+Architect;Problem+Solver" alt="Typing SVG" />
   </a>
 </div>
 
@@ -28,7 +28,7 @@
 <br/>
 
 ## 👨‍💻 About Me
-A passionate **Software Engineering** student at *Parul University (2023–2027)*, deeply focused on architecting scalable full-stack platforms and integrating robust **Machine Learning** & **Artificial Intelligence** models to solve complex, real-world problems. I enjoy exploring edge-case challenges in deep learning architectures, system design, and algorithmic efficiency.
+A passionate **Software Engineering** student at *Parul University (2023–2027)*, deeply focused on architecting scalable full-stack platforms and integrating robust **Machine Learning** & **Artificial Intelligence** models to solve complex, real-world problems.
 
 - 🔭 **Current Focus**: Designing cutting-edge AI pipelines, NLP models, and scalable backend microservices.
 - 🌱 **Learning**: Advanced Deep Learning (Transformers/LLMs), Neural Networks, and highly distributed systems.
@@ -50,12 +50,12 @@ A passionate **Software Engineering** student at *Parul University (2023–2027)
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 
 ### 🌐 Backend & Core Ecosystems
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 
@@ -65,11 +65,10 @@ A passionate **Software Engineering** student at *Parul University (2023–2027)
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-### 🗄️ Databases, CI/CD & Tooling
+### 🗄️ Databases & Tooling
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 
@@ -79,25 +78,50 @@ A passionate **Software Engineering** student at *Parul University (2023–2027)
 
 ## 🚀 High-Impact Projects
 
-### 🧠 INTELLI-CI: AI-Powered CI/CD Optimization
-Architected an advanced AI-driven environment optimizing GitHub Actions pipelines. Engineered predictive models yielding an estimated **20-40% reduction in execution time** by anticipating pipeline failures and isolating flaky tests using advanced Machine Learning metrics.
-* **Core Tech**: `Python`, `FastAPI`, `Scikit-learn`, `React`, `PostgreSQL`, `GitHub Actions (CI/CD)`
-
-### 🍔 Smart Food Redistribution Ecosystem
-Devised a comprehensive full-stack ecosystem synchronizing surplus food donations with verified NGOs. Integrated secure funding workflows, payment gateways, and role-based real-time logistical tracking dashboards.
-* **Core Tech**: `React`, `Node.js`, `MongoDB`, `Express.js`, `REST APIs`
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 AI-Driven Gig Worker Insurance</h3>
+      <p>AI-powered architecture predicting risk modules and processing dynamic insurance allocations tailored for gig economy workers.</p>
+      <p><strong><a href="https://github.com/dorateja293/AI-driven-gig-worker-insurance-system" target="_blank">🔗 View Repository</a></strong></p>
+      <p><code>Python</code> <code>AI / ML</code> <code>FastAPI</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Intelli-CICD Platform</h3>
+      <p>AI-powered CI/CD optimization platform that predicts build failure probability and dynamically optimizes test execution across pipelines.</p>
+      <p><strong><a href="https://github.com/dorateja293/Intelli-CICD" target="_blank">🔗 View Repository</a></strong></p>
+      <p><code>Python</code> <code>Scikit-Learn</code> <code>GitHub Actions</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 GrowthWave</h3>
+      <p>A sophisticated data tracking & business intelligence platform architected using modern modern TypeScript frameworks.</p>
+      <p><strong><a href="https://github.com/dorateja293/GrowthWave" target="_blank">🔗 View Repository</a></strong></p>
+      <p><code>TypeScript</code> <code>React</code> <code>Node.js</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍔 Smart Food Redistribution</h3>
+      <p>A full-stack ecosystem synchronizing surplus food donations with verified NGOs leveraging secure user routing.</p>
+      <p><strong><a href="https://github.com/dorateja293/smart-food-redistribution-platform" target="_blank">🔗 View Repository</a></strong></p>
+      <p><code>JavaScript</code> <code>React</code> <code>MongoDB</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📈 GitHub Metrics
+## 📈 GitHub Metrics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dorateja293&show_icons=true&theme=tokyonight&hide_border=true" alt="Stat" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dorateja293&theme=tokyonight&hide_border=true" alt="Streak" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dorateja293&theme=merko&hide_border=true&border_radius=10" alt="Streak" height="195" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dorateja293&theme=tokyonight" alt="Summary Card" height="195" />
 </div>
+
 <br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorateja293&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dorateja293&theme=tokyo-night&hide_border=true&area=true&color=F711C9" alt="Activity Graph" width="80%" />
 </div>
 
 <br/>
